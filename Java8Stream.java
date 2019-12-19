@@ -17,7 +17,11 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-
+/**
+ * This class will cover most of the feautures of java 8 Stream
+ * @author Balaji Sankar
+ *
+ */
 public class Java8Stream implements Consumer<String>{
 	
 	private class Student {
