@@ -1,2 +1,2 @@
 # Java-stream
-Demo about stream
+Java 8 Features 
